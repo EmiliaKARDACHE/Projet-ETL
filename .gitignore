@@ -1,0 +1,37 @@
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Ignore Python build and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore compiled code
+*.class
+*.o
+*.so
+*.exe
+
+# Ignore log and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore IDE / editor folders
+.vscode/
+.idea/
+
+# Ignore environment and secret files
+.env
+*.env
+secrets.json
+data/raw/.DS_Store
