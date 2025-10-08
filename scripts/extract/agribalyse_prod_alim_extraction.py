@@ -8,7 +8,7 @@ def extract_agribalyse_excel_to_csv():
     excel_path = "../../data/raw/AgriBalyse/AGRIBALYSE3.2_Tableur produits alimentaires_PublieAOUT25.xlsx"
     sheet_name = "Detail ingredient"
     output_dir = "../../data/raw/AgriBalyse"
-    output_file = os.path.join(output_dir, "agribalyse_detail_ingredient_extraction.csv")
+    output_file = os.path.join(output_dir, "agribalyse_detail_par_ingredient.csv")
 
     print(f"Lecture du fichier Excel : {excel_path}")
     print(f"Feuille ciblée : {sheet_name}")

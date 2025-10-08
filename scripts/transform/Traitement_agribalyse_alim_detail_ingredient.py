@@ -6,7 +6,7 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.join(base_dir, "..", "..")
 
 # Chemins d’entrée et de sortie
-csv_path = os.path.join(root_dir, "data", "raw", "AgriBalyse", "Agribalyse_detail_ingredient_extraction.csv")
+csv_path = os.path.join(root_dir, "data", "raw", "AgriBalyse", "Agribalyse_detail_par_ingredient.csv")
 output_path = os.path.join(root_dir, "data", "processed", "agribalyse_detail_par_ingredient.csv")
 
 # Lecture du fichier CSV
