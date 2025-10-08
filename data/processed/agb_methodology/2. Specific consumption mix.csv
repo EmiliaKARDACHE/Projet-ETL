@@ -1,0 +1,31 @@
+﻿Product;Production quantities FR;Imports quantities;Origin of Imports;Years;Consumption Mix prior to Normalization - from France;Consumption Mix prior to Normalization - from Imports
+Almonds;FAO Stats;FAO Stats;FAO Stats;2014-2016;0.02;35% Spain, 24% USA, 10% Germany, 29% others
+Avocado;Interfel (Agreste);TradeMap;TradeMap;2014-2016;2% (from Réunion, Martinique, Guyane);22% Spain, 21% Peru, 14% Israel, 9% Mexico, 10 Chili, 23% Ohers
+Banana;Interfel (Agreste);TradeMap;TradeMap;2015-2016-2017;30% (mostly from Martinique and Guadeloupe);19% Ivory Coast, 17% Cameroon, 6% Colombia, 3% United Kingdom, 17% Ohers
+Cashew nuts;World production mix (FAOstats);World production mix (FAOstats);World production mix (FAOstats);2014-2016;-;29% Vietnam, 17% India, 15% Ivory Coast, 5% Philippines, 4% Tanzania, 4% Guinée Bissau, 26% others
+Cocoa;World production mix (FAOstats);World production mix (FAOstats);World production mix (FAOstats);2014-2016;-;43% Ivory Coast, 35% Ghana, 6% Dominican Republic, 15% Ohers
+Coffee;World production mix (FAOstats);World production mix (FAOstats);World production mix (FAOstats);2014-2016;-;16% Brazil, 9% Switzerland, 13% Vietnam, 10% Belgium, 5% Italy, 8% Germany, 5% Honduras, 4% Netherlands, 4% Colombia, 26% Ohers.
+Pineapple;Interfel (Agreste);TradeMap;TradeMap;2014-2016;22% (from Réunion, Guyane, and Guadeloupe);32% Costa Rica, 9% Ivory Coast, 9% Ecuador, 6% Ghana, 3% Belgium, 19% Ohers
+Potatoes;FranceAgrimer;FranceAgrimer/TradeMap;TradeMap;2014-2015-2016;0.94;4% Belgium, 2% Others
+Soybean;;France Agrimer 2013-2018;France Agrimer 2013-2019;;0.27;"23% Brazil ; 18%USA; 10% Canada; 22% others"
+Strawberry for direct consumption - on season;CTIFL/FranceAgrimer;CTIFL/FranceAgrimer/TradeMap;Agrimer/TradeMap;2013-2014-2015-2016;0.61;29% Spain, 10% others
+Strawberry for direct consumption - off-season;;CTIFL/FranceAgrimer/TradeMap;Agrimer/TradeMap;2013-2014-2015-2016;-;74% Spain, 26% others
+Strawberries for processing;;CTIFL/FranceAgrimer/TradeMap;Agrimer/TradeMap;2013-2014-2015-2016;-;31% Morocco, 26% Spain, 20% Poland
+Table apple;CTIFL;CTIFL/FranceAgrimer/TradeMap;Agrimer (ficher produit) - TradeMap;2015-2016-2017;0.91;2% Spain, 2% Italy, 1% Belgium, 1% Chili, 3% Ohers
+Table grape;CTIFL/FranceAgrimer;CTIFL/FranceAgrimer/TradeMap;CTIFL/Agrimer/TradeMap;2014-2015-2016;0.25;55% Italy, 7% Spain, 3% South Africa, 11% Ohers
+Tomatoes in-season for direct consumption;CTIFL/FranceAgrimer;CTIFL/FranceAgrimer;Agrimer (fiche produit);2017 with monthly production;0.76;24% others
+Tomatoes off-season for direct consumption;CTIFL/FranceAgrimer;CTIFL/FranceAgrimer;Agrimer (fiche produit);2017 with monthly production;0.5;30% Morocco, 11% Spain, 6% Belgium et Netherlands, 4% Ohers
+Tomatoes for processing;SONITO report 2016;SONITO report 2017;SONITO report 2018;2016;0.13;"34% Italie ; 27% Espagne; 26% others"
+Green beans;CTIFL;CTIFL;FAOSTAT;2014-2015-2016;0.85;8% Morocco, 2% Belgium, 1% Spain, 1% Kenya, 1% Senegal, 2% Ohers
+Rice;FranceAgrimer;TradeMap;TradeMap;2016;0.12;19% Italy, 12% Cambodia, 12% Thaïland, 9% Spain, 7% India, 5% Netherlands, 5% Honduras, 17% Ohers
+Palm Oil;-;Global Production mix as a proxy - FAOSTATS;Global Production mix as a proxy - FAOSTATS;2015-2016-2017;;51% Indonesia, 31% Malaysia, 4% Thailand, 16% others
+Soybean;Terres Univia;Terres Univia;Agrimer;2016-2018;0.27;Brazil (23%), USA (18%), Canada (10%), Paraguay (9%),others (14%).
+Shrimps;FranceAgrimer;FranceAgrimer;Agrimer with conversion coefficients;2013-2015;-;Ecuador (27%), India (16%), Madagascar (9%), Vietnam 7%, Bangladesh (7%), Nigeria 3%, Others 3%
+Salmon;FranceAgrimer;FranceAgrimer;Agrimer with conversion coefficients;2013-2015;0.01;"57% Norway, 21% United Kingdom; 13% Sweden, 8% others"
+Pork;IFIP;IFIP;IFIP;2016;0.8;10% Spain, 3% Germany, 2% Belgium, 2% Italy, 1% Denmark, 1% Ohers
+Beef for direct consumption;IDELE (expert);IDELE (expert);IDELE (expert);2018;1;-
+Beef for processing;IDELE;IDELE;IDELE;2009-2010-2014;0.72;7% Netherlands, 6% Germany, 5% Irlande, 3% Italy, 6% Ohers
+Chicken for direct consumption;France Agrimer and Expert say;France Agrimer and Expert say;France Agrimer and Expert say;2013-2015;1;
+Chicken for processing;France Agrimer and Expert say;France Agrimer and Expert say;France Agrimer and Expert say;2013-2015;0.4;15% Belgium, 15% Netherlands, 8% Germany, 8% Poland, 14% others
+Eggs;France Agrimer and Expert say;France Agrimer and Expert say;France Agrimer and Expert say;2012-2014;0.87;13% others
+Milk;IDELE 2019;IDELE 2020;IDELE 2021;2017;1;

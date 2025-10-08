@@ -1,0 +1,410 @@
+﻿CIQUAL Code;CIQUAL NAME EN;CIQUAL NAME FR;PROXY USED EN (RECIPE OR CIQUAL);PROXY USED FR (RECIPE OR CIQUAL)
+1000;Pastis (anise-flavoured spirit);Pastis;Clear fruit brandy or eau-de-vie;Eau de vie
+2002;Mixed fruits juice, pure juice, multivitamin;Jus multifruit, pur jus, multivitaminé;Mixed fruits juice, pure juice;Jus multifruit, pur jus, standard
+2060;Mixed fruits nectar, multivitamin;Nectar multifruit, multivitaminé;Mixed fruits juice, pure juice;Nectar multifruit, standard
+2061;Mixed fruits nectar;Nectar multifruit, standard;Mixed fruits juice, pure juice;Jus multifruit, pur jus, standard
+2500;Smoothie;Smoothie;Apple compote;Compote de pomme
+4036;Potato, sautéed/pan-fried, with goose fat;Pomme de terre sautée/poêlée à la graisse de canard;Potato, sautéed/pan-fried;Pomme de terre, sautée/poêlée
+4037;"Potato crisps, ""à l'ancienne"" (old-fashioned style)";Chips de pommes de terre, à l'ancienne;Potato crisps;Chips de pommes de terre, standard
+4038;Potato crisps and related, reduced fat;Chips de pommes de terre et assimilés, allégées en matière grasse;Potato crisps;Chips de pommes de terre, standard
+5000;Beer, dark ;Bière brune;Beer, regular (4-5° alcohol);"Bière ""coeur de marché"" (4-5° alcool)"
+5002;Beer, strong (>8° alcohol);Bière forte (>8° alcool);Beer, regular (4-5° alcohol);"Bière ""coeur de marché"" (4-5° alcool)"
+5008;Beer, low alcohol-content (3° alcohol);Bière faiblement alcoolisée (3° alcool);Beer, regular (4-5° alcohol);"Bière ""coeur de marché"" (4-5° alcool)"
+5010;Beer, special (5-6° alcohol);"Bière ""spéciale"" (5-6° alcool)";Beer, regular (4-5° alcohol);"Bière ""coeur de marché"" (4-5° alcool)"
+5011;"Beer, ""specialty"", from abbey or regional (varying alcohol content)";"Bière ""de spécialités"" ou d'abbaye, régionales ou d'une brasserie (degré d'alcool variable)";Beer, regular (4-5° alcohol);"Bière ""coeur de marché"" (4-5° alcool)"
+5030;Beer, alcohol-free (<1,2° alcohol);Bière sans alcool (<1,2° alcool);Beer, regular (4-5° alcohol);"Bière ""coeur de marché"" (4-5° alcool)"
+7004;Toasted bread, home-made;Pain grillé, domestique;Bread, home-made, with flour for home-made bread preparation;pain blanc nature
+7010;Brown bread, French bread (baguette or ball), with flour type 80 or 110;Pain, baguette ou boule, bis (à la farine T80 ou T110);Bread, French bread, baguette;pain blanc nature
+7111;Sandwich loaf, wholemeal;Pain de mie, complet;Sandwich loaf;pain de mie blanc nature (avec croute)
+7112;Sandwich loaf, bran grain;Pain de mie, au son;Sandwich loaf;pain de mie blanc nature (avec croute)
+7256;English muffin, wholewheat flour, prepacked;Muffin anglais, complet, petit pain spécial, préemballé;Rolls for hamburger/hotdog (buns), wholemeal, prepacked;Pain pour hamburger ou hot dog (bun), complet, préemballé
+7260;Bread, home-made, with flour for home-made bread preparation;Pain blanc maison (avec farine pour machine à pain);Bread, home-made, with flour for home-made bread preparation;Pain, baguette, courante
+7257;English muffin, prepacked;Muffin anglais, petit pain spécial, préemballé;Rolls for hamburger/hotdog (buns), prepacked;Pain pour hamburger ou hot dog (bun), préemballé
+7301;Rusk, w eggs;Biscotte briochée;Rusk;Biscotte classique
+7310;Rusk, unsalted;Biscotte sans adjonction de sel;Rusk;Biscotte classique
+7330;Rusk, multigrain;Biscotte multicéréale;Rusk;Biscotte classique
+7340;Rusk, wholemeal or rich in fibre;Biscotte complète ou riche en fibres;Rusk;Biscotte classique
+7352;Puffed rice textured bread, wholemeal;Galette de riz soufflé complet;Puffed cereals textured bread;Galettes multicéréales soufflées
+7400;Rusk, slice, wheat;Pain grillé, tranches, au froment;Bread, home-made, with flour for home-made bread preparation;pain blanc nature
+7403;Rusk with eggs, sliced, prepacked;Pain grillé brioché, tranché, préemballé;Brioche sandwich bread, prepacked;pain de mie brioche nature
+7407;Wheat swedish toast;Pain grillé suédois au froment;Sandwich loaf, multigrain;pain de mie aux cereales
+7409;Swedish toast, with linseeds;Pain grillé suédois aux graines de lin;Sandwich loaf, multigrain;pain de mie aux cereales
+7412;Biscuit, extruded and grilled, chocolate filling;Tartine craquante, extrudée et grillée, fourrée au chocolat;Crispbread, extruded and grilled;Tartine craquante, extrudée et grillée
+7413;Biscuit, extruded and grilled, fruits filling;Tartine craquante, extrudée et grillée, fourrée aux fruits;Crispbread, extruded and grilled;Tartine craquante, extrudée et grillée
+7420;Wheat swedish toast, wholemeal;Pain grillé suédois au blé complet;Sandwich loaf, multigrain;pain de mie aux cereales
+7421;Swedish toast, with fruits;Pain grillé suédois aux fruits;Sandwich loaf, multigrain;Pain grillé suédois au froment
+7425;Rusk, slice, multigrain;Pain grillé, tranches, multicéréale;Bran grain bread;pain au son
+7432;Croutons, plain, prepacked;Croûtons nature, préemballés;Croutons;Croûtons
+7738;Brioche, filled with fruits;Brioche fourrée aux fruits;Brioche, filled with chocolate;brioche ordinaire au chocolat noir/au lait
+7744;Christmas brioche with candied fruits, prepacked;Couronne de Noël (Brioche) aux fruits confits, préemballée;Brioche, pure butter;brioche ordinaire nature (beurre)
+7811;Focaccia, filled;Focaccia, garnie;Pizza, ham and cheese;Pizza jambon fromage
+8080;Rillette, fish;Rillettes de poisson;Rillettes, tuna;Rillettes de thon
+8109;Duck confit (conserved in rendered fat), meat (leg) without skin, reheated;Confit de canard, viande (cuisse), sans peau, réchauffé;Duck confit;Confit de canard
+8120;Preserved pork liver;Confit de foie de porc;Liver, pork, raw;Foie, porc, cru
+8125;Preserved poultry liver;Confit de foie de volaille;Liver, poultry, raw;Foie, volaille, cru
+8292;Seafood terrine, with or without fish;Terrine de fruits de mer, avec ou sans poisson;Fish terrine;Terrine de poisson
+8373;Rolled escalope of pork with pistachios;Roulade de porc pistachée;Pork, ham escalope, raw;Porc, escalope de jambon, crue
+8406;Pork snout in salad dressing sauce;Museau de porc vinaigrette;Brain, pork, raw;Cervelle, porc, crue
+8500;Chitterling sausage;Andouille;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8501;Chitterling sausage from Guéméné;Andouille de Guéméné;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8504;Chitterling sausage, pan-reheated;Andouille, réchauffée à la poêle;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8512;Chitterling sausage from Vire;Andouille de Vire;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8550;Chitterling sausage, raw;Andouillette, crue;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8551;Chitterling sausage, sautéed/pan-fried;Andouillette, sautée/poêlée;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8552;Chitterling sausage from Troyes, raw;Andouillette de Troyes, crue;Toulouse sausage, raw;Saucisse de Toulouse, crue
+8803;White pudding, truffled, raw;Boudin blanc truffé, cru;Toulouse sausage, raw;Saucisse de Toulouse, crue
+10002;Squid fritter, Roman-style;Calmar ou Calamar ou encornet, à la romaine (beignet);Squid, fried or pan-fried with fat;Calmar ou calamar ou encornet, frit ou poêlé avec matière grasse
+10083;Mussels, filled (fat, parsley and garlic...);Moules farcies (matière grasse, persillade…), crues;Mussels, in a shallot and white wine broth;Moules marinières (oignons et vin blanc)
+11051;Tartare sauce, prepacked;Sauce tartare, préemballée;Sauce, pepper, prepacked;Sauce au poivre, condimentaire, froide, préemballée
+11079;Mayonnaise, reduced fat or light mayonnaise;Mayonnaise à teneur réduite en matière grasse ou Mayonnaise allégée;Mayonnaise (70% fat and more);Mayonnaise (70% MG min.)
+11122;Cream sauce with shallots, prepacked;Sauce à l'échalote à la crème, préemballée;Cream sauce with shallots, prepacked;Sauce à la crème
+11162;Cream sauce with herbs;Sauce à la crème aux herbes;Cream sauce with spices;Sauce à la crème aux épices
+11167;American-style sauce, prepacked;Sauce américaine, préemballée;Armorican-style sauce, prepacked;Sauce armoricaine, préemballée
+11172;Aromatic stock cube, for fish, dehydrated;Court-bouillon pour poissons, déshydraté;Aromatic stock cube, for fish, dehydrated;Soupe aux légumes variés, déshydratée reconstituée
+11177;Tomato sauce, w mushrooms, prepacked;Sauce tomate aux champignons, préemballée;Tomato sauce, w mushrooms, prepacked;Sauce tomate aux oignons, préemballée
+11178;Tomato sauce, w olives, prepacked;Sauce tomate aux olives, préemballée;Tomato sauce, w olives, prepacked;Sauce tomate aux oignons, préemballée
+11187;Salad dressing, prepacked;Sauce crudités ou Sauce salade, préemballée;Mayonnaise (70% fat and more);Mayonnaise (70% MG min.)
+11191;Roquefort (blue cheese) sauce, prepacked;Sauce au roquefort, préemballée;White butter sauce, prepacked;Sauce au beurre blanc, préemballée
+7160;Bread, French bread, without salt;Pain, baguette, sans sel;Bread, French bread, baguette;Pain, baguette, courante
+11196;Burger sauce, prepacked;Sauce burger, préemballée;Mayonnaise (70% fat and more);Mayonnaise (70% MG min.)
+11198;Salad dressing, reduced fat, prepacked;Sauce crudités ou Sauce salade, allégée en matière grasse, préemballée;Mayonnaise (70% fat and more);Mayonnaise (70% MG min.)
+11199;Grand veneur sauce (a reduction of red wine with garlic, shallots and red currant jelly), prepacked;Sauce grand veneur, préemballée;Burgundy-style sauce, prepacked;Sauce bourguignonne, préemballée
+11205;Mayonnaise flavoured with garlic, chilli pepper and fish broth, prepacked;Sauce rouille, préemballée;Mayonnaise (70% fat and more);Mayonnaise (70% MG min.)
+11208;Tomato sauce, w cheese, prepacked;Sauce tomate au fromage, préemballée;Tomato sauce, w cheese, prepacked;Sauce tomate aux oignons, préemballée
+11210;Sauce, pesto rosso, prepacked;Sauce pesto rosso, préemballée;Sauce, pesto, prepacked;Sauce pesto, préemballée
+13152;Fruits dessert, all types (fruits dessert's sugar content is less than fruits compote but more than fruits compote reduced sugar);Dessert de fruits, tout type de fruits (en taux de sucres : compotes allégées en sucres < desserts de fruits < compotes allégée);Soy dessert, w fruits, refrigerated;Dessert au soja, aux fruits, rayon frais
+13157;Baby food jar with banana;Petit pot fruit avec banane pour bébé;Apple compote;Compote de pomme
+13158;Baby food jar without banana;Petit pot fruit sans banane pour bébé;Apple compote;Compote de pomme
+13159;Fruit-based beverage for baby from 4/6 months;Boisson aux fruits pour bébé dès 4/6mois;Mixed fruits juice, pure juice;Jus multifruit, pur jus, standard
+13161;Dairy cereal-based beverage with vegetables for baby's dinner from 4/6 months;Boisson infantile céréales lactées aux légumes pour dîner dès 4/6 mois;Dairy cereal-based beverages for baby's breakfast;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+13162;Dairy cereal-based beverage with fruits for baby's snack from 4/6 months;Boisson infantile céréales lactées aux fruits pour le goûter dès 4/6 mois;Dairy cereal-based beverages for baby's breakfast;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+13163;Dairy cereal-based beverage for baby's breakfast from 4/6 months;Boisson infantile céréales lactées pour le petit déjeuner dès 4/6 mois;Dairy cereal-based beverages for baby's breakfast;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+13164;Dairy dessert for baby, custard type;Dessert lacté infantile type crème dessert;Custard dessert, vanilla, canned;creme dessert type danette a la vanille (sucre avec du sucre)
+13165;Dairy dessert for baby, with rice or semolina;Dessert lacté infantile au riz ou à la semoule;Custard dessert, vanilla, canned;Dessert lacté infantile type crème dessert
+13166;Dairy dessert for baby, plain with sugar or with fruits;Dessert lacté infantile nature sucré ou aux fruits;Custard dessert, vanilla, canned;Dessert lacté infantile type crème dessert
+13169;Dairy cereal-based beverage for baby's breakfast from 8/9 months;Boisson infantile céréales lactées pour le petit déjeuner dès 8/9 mois;Dairy cereal-based beverages for baby's breakfast;Chicorée instantanée, sans sucre et édulcorants artificiels, prêt-à-boire (reconstitué avec du lait demi-écrémé standard)
+13170;Dairy cereal-based beverage for baby's breakfast from 12 months;Boisson infantile céréales lactées pour le petit déjeuner dès 12 mois;Dairy cereal-based beverages for baby's breakfast;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+13173;Dairy cereal-based beverage for baby's breakfast;Boisson infantile céréales lactées pour le petit déjeuner;Dairy cereal-based beverages for baby's breakfast;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+13709;Fruit cocktail or salad, canned in light syrup, not drained;Macédoine ou cocktail ou salade de fruits, au sirop léger, appertisé, non égoutté;Fruit cocktail or salad, canned in light syrup, not drained;Macédoine ou cocktail ou salade de fruits, au sirop, appertisé, égoutté
+15018;Mix of salted grains/nuts and raisins;Mélange apéritif de graines salées et raisins secs;Mix of unsalted grains/nuts and dried fruit;Mélange apéritif de graines (non salées) et fruits séchés
+15049;Mix of unsalted grains/nuts and raisins;Mélange apéritif de graines (non salées) et raisins secs;Mix of unsalted grains/nuts and dried fruit;Mélange apéritif de graines (non salées) et fruits séchés
+18012;Bottled water, flavoured, w sugar;Boisson à l'eau minérale ou de source, aromatisée, sucrée;Mineral still water (Evian), bottled, lightly mineralized;Eau minérale Evian, embouteillée, non gazeuse, faiblement minéralisée (Evian, 74)
+18013;Tonic drink, without sugar, with artificial sweetener(s);Tonic ou bitter, non sucré, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18014;Tonic drink, with sugar and artificial sweetener(s);Tonic ou bitter, sucré, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18015;Still soft drink with tea extract, with sugar and artificial sweetener(s);Boisson au thé, aromatisée, sucrée, avec édulcorants;Still soft drink with tea extract, flavoured, with sugar;the glace au citron
+18016;Lemonade, with sugar and artificial sweetener(s);Limonade, sucrée, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18018;Cola, with sugar;Cola, sucré;Lemonade, with sugar;Limonade, sucrée
+18021;Fruit soft drink, still (less than 10% of fruit juice), without sugar and with artificial sweetener(s);Boisson plate aux fruits, (à moins de 10% de jus), non sucrée, avec édulcorants;Bottled water, flavoured, w sugar;Boisson à l'eau minérale ou de source, aromatisée, sucrée
+18023;Fruit soft drink, still (less than 10% of fruit juice), with sugar;Boisson plate aux fruits (à moins de 10% de jus), sucrée;Syrup;sirop dilue a l'eau
+18026;Soft drink, carbonated, without fruit juice, with sugar;Boisson gazeuse, sans jus de fruit, sucrée;Lemonade, with sugar;Limonade, sucrée
+18028;Bottled water, flavoured, without sugar and artificial sweeteners;Boisson à l'eau minérale ou de source, aromatisée, non sucrée, sans édulcorant;Mineral still water (Evian), bottled, lightly mineralized;Eau minérale Evian, embouteillée, non gazeuse, faiblement minéralisée (Evian, 74)
+18030;Bottled water, flavoured, without sugar and with artificial sweeteners;Boisson à l'eau minérale ou de source, aromatisée, non sucrée, avec édulcorants;Mineral still water (Evian), bottled, lightly mineralized;Eau minérale Evian, embouteillée, non gazeuse, faiblement minéralisée (Evian, 74)
+18033;Fruit soft drink, carbonated (less than 10% of fruit juice), with sugar and artificial sweetener(s);Boisson gazeuse aux fruits (à moins de 10% de jus), sucrée, avec édulcorants;Fruit soft drink, carbonated (10-50% of fruit juice), with sugar;Boisson gazeuse aux fruits (de 10 à 50% de jus), sucrée
+18035;Lemonade, without sugar, with artificial sweetener(s);Limonade, non sucrée, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18037;Cola, with sugar and artificial sweetener(s);Cola, sucré, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18049;Fruit soft drink, carbonated (less than 10% of fruit juice), with sugar;Boisson gazeuse aux fruits (à moins de 10% de jus), sucrée;Fruit soft drink, carbonated (10-50% of fruit juice), with sugar;Boisson gazeuse aux fruits (de 10 à 50% de jus), sucrée
+18060;Cola, without sugar and with artificial sweetener(s);Cola, non sucré, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18065;Still soft drink with tea extract, flavoured, without sugar and with artificial sweeteners;Boisson au thé, aromatisée, non sucrée, avec édulcorants;Still soft drink with tea extract, flavoured, with sugar;Boisson au thé, aromatisée, sucrée
+18067;Cola, with sugar and without caffeine;Cola, sucré, sans caféine;Lemonade, with sugar;Limonade, sucrée
+18068;Cola, without sugar, with artificial sweetener(s) and with caffeine;Cola, non sucré, avec édulcorants, sans caféine;Lemonade, with sugar;Limonade, sucrée
+18078;Soft drink, carbonated, without fruit juice, with sugar and artificial sweetener(s);Boisson gazeuse, sans jus de fruit, sucrée, avec édulcorants;Lemonade, with sugar;Limonade, sucrée
+18151;Coffee with milk or white coffee or cappuccino, instant coffee or not, without sugar, ready-to-drink;Café au lait, café crème ou cappuccino, instantané ou non, non sucré, prêt à boire;Coffee with milk or white coffee or cappuccino, instant coffee or not, without sugar, ready-to-drink;Café au lait ou cappuccino au chocolat, poudre soluble
+18162;Mix of chicory and coffee, instant, without sugar, ready-to-drink (reconstituted with water);Chicorée et café, instantané, non sucré, prêt à boire (reconstituée avec de l'eau);Mix of chicory and coffee, instant, without sugar, ready-to-drink (reconstituted with standard semi-skimmed milk);chicoree cafe au lait
+18304;Fruit soft drink, still (10-50% of fruit juice), reduced sugar;Boisson plate aux fruits (10 à 50% de jus), à teneur réduite en sucres;Fruit soft drink, still (less than 10% of fruit juice), with sugar;Boisson plate aux fruits (à moins de 10% de jus), sucrée
+18309;Fruit soft drink, still (fruit juice content unspecified), with sugar;Boisson plate aux fruits (teneur en jus non spécifiée), sucrée;Fruit soft drink, still (less than 10% of fruit juice), with sugar;Boisson plate aux fruits (à moins de 10% de jus), sucrée
+18339;Fruit soft drink, still (10-50% of fruit juice), with sugar;Boisson plate aux fruits (10 à 50% de jus), sucrée;Fruit soft drink, still (less than 10% of fruit juice), with sugar;Boisson plate aux fruits (à moins de 10% de jus), sucrée
+18340;Fruit soft drink, carbonated (less than 10% of fruit juice), without sugar and with artificial sweetener(s);Boisson gazeuse aux fruits (à moins de 10% de jus), non sucrée, avec édulcorants;Bottled water, flavoured, without sugar and artificial sweeteners;Boisson à l'eau minérale ou de source, aromatisée, non sucrée, sans édulcorant
+18343;Fruit juice with milk;Boisson au jus de fruit et au lait;Mixed fruits juice, reconstituted from a concentrate, multivitamin;jus multifruits
+18344;Tonic drink, with sugar;Tonic ou bitter, sucré;Lemonade, with sugar;Limonade, sucrée
+18345;Fruit soft drink, carbonated (less than 10% of fruit juice), without sugar and artificial sweetener(s);Boisson gazeuse aux fruits (à moins de 10% de jus), non sucrée, sans édulcorant;Bottled water, flavoured, without sugar and artificial sweeteners;Boisson à l'eau minérale ou de source, aromatisée, non sucrée, sans édulcorant
+18352;Energy drink, with sugar;Boisson énergisante, sucrée;Energy drink, without sugar and with artificial sweetener(s);Boisson énergisante, non sucrée, avec édulcorants
+18903;Soy drink, flavoured, enriched in calcium, w sugar or fruit concentrate;Boisson au soja, aromatisée, sucrée, enrichie en calcium;Soy drink, w concentrated fruit juice;lait de soja
+18904;Rice-based drink, plain;Boisson à base de riz, nature;Almond beverage;Boisson à l'amande
+19122;Chocolate flavoured milk, with sugar, partially skimmed, fortified with vitamins and chemicals elements;Boisson lactée aromatisée au chocolat, sucrée, au lait partiellement écrémé, enrichie et/ou restaurée en vitamines et/ou minéraux;Semi-skimmed milk;Lait demi-écrémé, UHT
+19127;Strawberry flavoured milk, with sugar, partially skimmed, fortified with vitamins D;Boisson lactée aromatisée à la fraise, sucrée, au lait partiellement écrémé, enrichie à la vitamine D;Semi-skimmed milk;Lait demi-écrémé, UHT
+19508;Dairy drink or fermented milk or yogurt, flavoured, with sugar;Boisson lactée, lait fermenté ou yaourt à boire, aromatisé, sucré;Dairy drink or fermented milk or yogurt, with fruits, with sugar;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+19538;Dairy drink or fermented milk or yogurt, plain, with sugar, with L Casei;Boisson lactée, lait fermenté ou yaourt à boire, nature, sucré, au L Casei;Dairy drink or fermented milk or yogurt, with fruits, with sugar;Boisson lactée, lait fermenté ou yaourt à boire, aux fruits, sucré
+19673;Custard dessert, reduced fat, refrigerated;Crème dessert, allégée en MG, rayon frais;Custard dessert, vanilla, canned;creme dessert type danette a la vanille (sucre avec du sucre)
+19552;Yogurt, Greek-style, on a bed of fruits;Yaourt à la grecque, sur lit de fruits;Yogurt, fermented milk or dairy specialty, w fruits, with sugar;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré
+19558;Yogurt, fermented milk or dairy specialty, with cereals, fat free;Yaourt, lait fermenté ou spécialité laitière, aux céréales, 0% MG;Yogurt, fermented milk or dairy specialty, w cereals;Yaourt, lait fermenté ou spécialité laitière, aux céréales
+19559;Yogurt, fermented milk or dairy specialty, flavoured, with sweetener, fat free;Yaourt, lait fermenté ou spécialité laitière, aromatisé, avec édulcorants, 0% MG;Yogurt, fermented milk or dairy specialty, flavoured, with sugar;Yaourt, lait fermenté ou spécialité laitière, aromatisé, sucré
+19581;Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free;Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG;Yogurt, fermented milk or dairy specialty, w fruits, with sugar;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré
+19582;Yogurt, fermented milk or dairy specialty, with fruits, with sweetener, fat free, fortified with vitamin D;Yaourt, lait fermenté ou spécialité laitière, aux fruits, avec édulcorants, 0% MG, enrichi en vitamine D;Yogurt, fermented milk or dairy specialty, w fruits, with sugar;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré
+19589;Yogurt, fermented milk or dairy specialty, w fruits, with sugar, with cream;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, à la crème;Yogurt, fermented milk or dairy specialty, w fruits, with sugar;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré
+19592;Yogurt, fermented milk or dairy specialty, with fruits, with sugar, fortified with vitamin D;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré, enrichi en vitamine D;Yogurt, fermented milk or dairy specialty, w fruits, with sugar;Yaourt, lait fermenté ou spécialité laitière, aux fruits, sucré
+19693;Soy dessert, plain, refrigerated;Dessert au soja, nature, rayon frais;Soy dessert, plain, refrigerated;Dessert au soja, aux fruits, rayon frais
+19852;Chestnut mousse, refrigerated;Mousse à la crème de marrons, rayon frais;Fruit mousse, refrigerated;Mousse aux fruits, rayon frais
+20246;Baby food jar with vegetables, from 4-6 months;Petit pot légumes, dès 4-6 mois;Vegetables (3-4 types), mashed;Légumes (3-4 sortes en mélange), purée
+20247;Baby food jar with vegetables and starch, from 4-6 months;Petit pot légumes, avec féculent, dès 4/6 mois;Vegetables (3-4 types), mashed;Légumes (3-4 sortes en mélange), purée
+20248;Vegetable dish for baby, with starch, from 6-8 months;Plat légumes, avec féculent, dès 6-8 mois;Vegetable dish for baby, with starch, from 6-8 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+20249;Vegetable dish for baby, with milk/cream and starch, from 6-8 months;Plat légumes, avec féculent et lait/crème, dès 6-8 mois;Vegetable dish for baby, with milk/cream and starch, from 6-8 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+20250;Vegetable dish for baby, with milk/cream and starch, from 8-12 months;Plat légumes, avec féculent et lait/crème, dès 8-12 mois;Vegetable dish for baby, with milk/cream and starch, from 8-12 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+20251;Vegetable dish for baby, with milk/cream and starch, from 12 months;Plat légumes, avec féculent et lait/crème, dès 12 mois;Vegetable dish for baby, with milk/cream and starch, from 12 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+20252;Soup for baby, with vegetables and potatoes;Soupe pour bébé légumes et pomme de terre;Soup, leek and potato, prepacked, to be reheated;Soupe aux poireaux et pommes de terre, préemballée à réchauffer
+20253;Soup for baby, with vegetables, cereals and milk;Soupe pour bébé légumes, céréales et lait;Soup, mixed vegetables, prepacked, to be reheated;Soupe aux légumes variés, préemballée à réchauffer
+20254;Vegetable dish for baby, with milk/cream and starch, from 18 months;Plat légumes, avec féculent et lait/crème, dès 18 mois;Vegetable dish for baby, with milk/cream and starch, from 18 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+20262;Vegetables pan-fried without mushrooms, frozen, raw;Poêlée de légumes assaisonnés sans champignon, surgelée, crue;Grilled vegetables pan-fried, Mediterranean-style, frozen, raw;Poêlée de légumes assaisonnés grillée, méridionale ou méditerranéenne, surgelée, crue
+20273;Vegetables pan-fried or stir-fried, Asian-style, frozen, raw;Poêlée de légumes assaisonnés à l'asiatiques ou wok de légumes, surgelée, crue;Grilled vegetables pan-fried, Mediterranean-style, frozen, raw;Poêlée de légumes assaisonnés grillée, méridionale ou méditerranéenne, surgelée, crue
+20498;Vegetables pan-fried with mushrooms (country-style), frozen;"Poêlée de légumes assaisonnés aux champignons (""champêtre""), surgelée";Grilled vegetables pan-fried, Mediterranean-style, frozen, raw;Poêlée de légumes assaisonnés grillée, méridionale ou méditerranéenne, surgelée, crue
+20911;Soy dessert, flavoured, refrigerated;Dessert au soja aromatisé, rayon frais;Soy dessert, w fruits, refrigerated;Dessert au soja, aux fruits, rayon frais
+23005;Chou pastry with praline flavoured creme;Gâteau Paris-Brest (pâte à choux crème mousseline praliné);Profiteroles (chou pastry), with vanilla ice cream and chocolate sauce;profiterole
+23006;Sponge cake w chocolate w or wo cherry;Gâteau au chocolat type forêt noire (génoise au chocolat et crème multi-couches, avec ou sans cerises);Savoy-style sponge cake;Biscuit de Savoie
+23420;Puff pastry, raw;Pâte feuilletée, matière grasse végétale, crue;Puff pastry, frozen, raw;Pâte feuilletée, surgelée, crue
+23442;Shortbread dough, cooked;Pâte sablée, cuite;Shortbread dough, raw;Pâte sablée, crue
+23448;Shortbread dough, pure butter, cooked;Pâte sablée pur beurre, cuite;Shortbread dough, pure butter, raw;Pâte sablée pur beurre, crue
+23455;Pastry cream puff;Chou à la crème (chantilly ou pâtissière);Chou pastry filled with whipped cream;chou a la creme chantilly
+23479;Fruit pie with confectioner's custard;Tarte aux fruits et crème pâtissière;Red berries tart;Tarte aux fruits rouges
+23481;Apple pie with custard (flour, eggs, cream, sugar, apple alcohol);Tarte normande aux pommes (garniture farine, œufs, crème, sucre, calvados);Peer tart with almonds;Tarte aux poires amandine
+23534;Semolina pudding, with raisins and caramel sauce, refrigerated;Gâteau de semoule aux raisins et caramel, rayon frais;Semolina pudding, refrigerated;Semoule au lait, rayon frais
+23589;Fresh cream cheese cake;Gâteau au fromage blanc;Yogurt cake;gateau au yaourt nature (huile)
+23803;Basque cake (shortbread), with cherries;Gâteau basque, cerises;Basque cake (shortbread), with custard;gateau basque a la creme patissiere
+23805;Blinis;Blini;Crepe, plain, prepacked, refrigerated;crepe a la farine de froment (huile)
+23815;Crepe filled with sugar, prepacked;Crêpe préemballée, fourrée au sucre;Crepe filled with sugar, prepacked;Crêpe, nature, préemballée, rayon température ambiante
+23820;Crepe, filled with jam, home-made;Crêpe maison, fourrée à la confiture;Crepe filled with sugar, prepacked;Crêpe préemballée, fourrée au sucre
+23821;Crepe, filled with chocolate or chocolate and hazelnut spread, home-made;Crêpe maison, fourrée au chocolat ou à la pâte à tartiner chocolat et noisettes;Crepe filled with sugar, prepacked;Crêpe préemballée, fourrée au sucre
+23829;Crepe filled with chocolate, prepacked;Crêpe préemballée, fourrée chocolat;Crepe filled with chocolate, prepacked;Crêpe, nature, préemballée, rayon température ambiante
+23830;Crepe filled with strawberries, prepacked;Crêpe préemballée, fourrée fraise;Crepe filled with strawberries, prepacked;Crêpe, nature, préemballée, rayon température ambiante
+23854;Wafer biscuit, crunchy (thin or dry), with chocolate, prepacked;Gaufre croustillante (fine ou sèche), chocolatée, préemballée;Biscuit (cookie), plain;Biscuit sec nature
+23930;Fruit shortbread cake, prepacked;Gâteau sablé aux fruits, préemballé;Biscuit (small tart), with fruit covering;biscuit a la confiture
+23937;Fruit soft cake;Gâteau moelleux aux fruits;Sponge cake w fruit mousse;Gâteau moelleux fourré aux fruits type mini-roulé ou mini-cake fourré
+23940;Sponge cake filled and covered with chocolate;Génoise fourrée et nappée au chocolat;Chocolate soft cake, prepacked;Gâteau moelleux au chocolat, préemballé
+23941;Soft cake filled with fruits, mini sponge roll type;Gâteau moelleux fourré aux fruits type mini-roulé ou mini-cake fourré;Sponge cake w fruit mousse;bavarois aux framboises
+24002;Biscuit (cookie) vitamins content guaranteed;Biscuit sec à teneur garantie en vitamines;Biscuit (cookie), sponge fingers or Lady fingers;biscuit boudoir
+24003;Biscuit (cookie) vitamins and chemical elements content guaranteed;Biscuit sec à teneur garantie en vitamines et minéraux;Biscuit (cookie), plain;biscuit sec nature (beurre)
+24004;Biscuit (cookie) with fruits, reduced salt;Biscuit sec aux fruits, hyposodé;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24007;Crispy biscuit (cookie), with chocolate, reduced fat;Biscuit sec croquant au chocolat, allégé en matière grasse;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+24008;Biscuit (cookie) filled with fruits, reduced fat;Biscuit sec fourré aux fruits, allégé en matière grasse;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24010;Biscuit (cookie), with vegetal fat;Biscuit sec, avec matière grasse végétale;Biscuit (cookie), with vegetal fat;biscuit sec nature (beurre) (adapté)
+24011;Biscuit (cookie), assortment of miniature sweets and biscuits;Biscuit sec, petits fours en assortiment;Biscuit (cookie), cat tongue type;langue de chat nature
+24016;Biscuit (cookie), covering with a chocolate bar;Biscuit sec avec tablette de chocolat;Biscuit (cookie), chocolate covering;biscuit sec enrobe de chocolat
+24030;Biscuit (cookie), with milk;Biscuit sec au lait;Butter biscuit (cookie);biscuit petit beurre
+24031;Crispy biscuit (cookie), without chocolate, reduced fat;Biscuit sec croquant (ex : tuile) sans chocolat, allégé en matière grasse;Biscuit (cookie), thin, w almonds;biscuit sec croquant aux amandes type tuile
+24034;Breakfast biscuit (cookie);Biscuit sec pour petit déjeuner;Biscuit (cookie), plain;biscuit sec nature (beurre)
+24035;Breakfast biscuit (cookie), reduced sugar;Biscuit sec pour petit déjeuner, allégé en sucres;Biscuit (cookie), plain;biscuit sec nature (beurre)
+24036;Biscuit (cookie), with chocolate, prepacked;Biscuit sec chocolaté, préemballé;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+24037;Biscuit (cookie) filled with fruit paste or fruit puree;Biscuit sec fourré à la pâte ou purée de fruits;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24039;Biscuit bar filled with fruits, reduced fat;Barre biscuitée fourrée aux fruits, allégée en matière grasse;Biscuit (small tart), with fruit covering;"Barre céréalière ""équilibre"" aux fruits, enrichie en vitamines et minéraux"
+24040;Breakfast biscuit (cookie), with chocolate;Biscuit sec pour petit déjeuner, au chocolat;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+24041;Breakfast biscuit (cookie) with cereals, fortified with vitamins and chemical elements;Biscuit aux céréales pour petit déjeuner, enrichis en vitamines et minéraux;Biscuit (cookie), plain;Biscuit sec nature
+24051;Biscuit sponge cake, with chocolate, pre-packed;Biscuit sec chocolaté, type barquette;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+24052;Biscuit (small tart), with chocolate, pre-packed;Biscuit sec chocolaté, type tartelette;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+24053;Biscuit shortbread, with chocolate, pre-packed;Biscuit sec chocolaté, type galette;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+24054;Biscuit shortbread, with fruits;Biscuit sec, sablé, galette ou palet, aux fruits;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24055;Biscuit (cookie) with nuts (no chocolate or lightly chocolate-flavoured);Biscuit sec fourré fruits à coque (non ou légèrement chocolaté);Biscuit (cookie), thin, w almonds;biscuit sec croquant aux amandes type tuile
+24056;Florentine biscuit (chocolate sweet biscuit (cookie) with almonds);Florentin (biscuit sec sucré chocolaté aux amandes);Biscuit (cookie), plain;Biscuit sec nature
+24060;Pastry biscuit with meringue;Biscuit pâtissier meringué;Biscuit (cookie), sponge fingers or Lady fingers;biscuit boudoir
+24070;Shortbread cookie w coconut;Sablé à la noix de coco;Shortbread cookie w coconut;Biscuit sec nature
+24072;Shortbread cookie with fruit (apple, red berries, etc.);Sablé aux fruits (pomme, fruits rouges, etc.);Shortbread cookie with fruit (apple, red berries, etc.);Biscuit sec nature
+24225;Biscuit (cookie), snack with dairy or vanilla filling;"Goûter sec fourré (""sandwiché"") parfum lait ou vanille";Biscuit shortbread, with butter and chocolate;"Goûter sec fourré (""sandwiché"") parfum chocolat"
+24240;Biscuit (cookie), snack with fruits filling;"Goûter sec fourré (""sandwiché"") parfum fruits";Biscuit (small tart), with fruit covering;biscuit a la confiture
+24300;Wafer biscuit without filling;Gaufrette ou éventail sans fourrage;Biscuit (cookie), plain;Biscuit sec nature
+24311;Wafer biscuit, filled with chocolate, prepacked;Gaufrette fourrée chocolat, préemballée;Biscuit (cookie), chocolate covering;biscuit sec enrobe de chocolat
+24312;Wafer biscuit, filled with nuts (hazelnut, almond, praline, etc.), with chocolate or not, prepacked;Gaufrette fourrée fruits à coque (noisette, amande, praline, etc.), chocolatée ou non, préemballée;Biscuit (cookie), thin, w almonds;biscuit sec croquant aux amandes type tuile
+24313;Wafer biscuit, plain or vanilla flavoured, prepacked;Gaufrette, fourrée vanille, préemballée;Biscuit (cookie), plain;Biscuit sec nature
+24320;Wafer biscuit, with fruits;Gaufrette fourrée, aux fruits;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24678;Biscuit sponge cake with fruits covering, pre-packed;Biscuit sec (génoise) nappage aux fruits, type barquette;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24680;Soft cake, filled with fruit paste or fruit puree and sugar icing coated;Biscuit moelleux fourré à l'orange et enrobé de sucre glace;Biscuit (small tart), with fruit covering;biscuit a la confiture
+24685;Cone, wafer for ice cream;Cône ou cornet classique, pour glace;Biscuit (cookie), plain;Biscuit sec nature
+24686;Dried sponge cake filled with fruits and covered with chocolate;Génoise sèche fourrée aux fruits et nappée de chocolat;Sponge cake w fruit mousse;Gâteau moelleux aux fruits
+24689;Biscuit for baby;Biscuit pour bébé;Biscuit (cookie), sponge fingers or Lady fingers;biscuit boudoir
+24690;Biscuit (cookie), reduced sugar;Biscuit sec pauvre en glucides;Biscuit (cookie), plain;biscuit sec nature (beurre)
+25029;Couscous w mutton;Couscous au mouton;Couscous w mutton;Couscous à la viande
+25043;Couscous with meat or chicken, light;Couscous à la viande ou au poulet, allégé;Couscous with meat or chicken, light;Couscous à la viande
+25052;Eggplant au gratin (oven grilled);Gratin d'aubergine;Vegetables au gratin (oven grilled);Gratin de légumes
+25063;Rabbit with mustard sauce;Lapin à la moutarde;Rabbit, meat, cooked;Lapin, viande cuite
+25077;Salmon with sorrel;Saumon à l'oseille;Salmon, steamed;Saumon, cuit à la vapeur
+25086;Fish w bordelaise sauce;Poisson blanc à la bordelaise;White fish with shallots, mussels and white wine sauce;Poisson blanc à la marinière (sauce aux oignons, vin blanc, moules)
+25107;Couscous w fish;Couscous au poisson;Couscous w fish;Couscous à la viande
+25127;Couscous royal (with different meats);Couscous royal (avec plusieurs viandes);Couscous w meat;Couscous à la viande
+25135;Carbonara-style pasta (spaghetti, tagliatelle...);Pâtes à la carbonara (spaghetti, tagliatelles…);Carbonara-style pasta (spaghetti, tagliatelle...);Pâtes à la bolognaise (spaghetti, tagliatelles…)
+25138;Couscous w chicken;Couscous au poulet;Couscous w chicken;Couscous à la viande
+25142;White fish with mustard sauce;Poisson blanc à la sauce moutarde;White fish with Florentine-style sauce (spinach sauce);Poisson blanc à la florentine (sauce aux épinards)
+25145;White fish with tarragon sauce;Poisson blanc à l'estragon;White fish with Florentine-style sauce (spinach sauce);Poisson blanc à la florentine (sauce aux épinards)
+25146;White fish with sorrel sauce;Poisson blanc sauce oseille;White fish with Florentine-style sauce (spinach sauce);Poisson blanc à la florentine (sauce aux épinards)
+25150;Couscous with vegetables;Couscous de légumes;Couscous with vegetables;Couscous à la viande
+25155;Fresh pasta, stuffed with cheese and vegetables (e.g. ravioli), cooked;Pâtes fraîches farcies (ex : raviolis), au fromage et aux légumes, cuites;Fresh pasta, stuffed with cheese (e.g. ravioli), cooked;Pâtes fraîches farcies (ex : raviolis), à la viande (ex : bolognaise), cuites
+25182;Fresh pasta, stuffed with cheese and vegetables (e.g. ravioli), raw;Pâtes fraîches farcies (ex : raviolis), au fromage et aux légumes, crues;Fresh pasta, stuffed with cheese (e.g. ravioli), raw;Pâtes fraîches farcies (ex : raviolis), à la viande (ex : bolognaise), crues
+25184;White rice, cooked, with chicken;Riz blanc, cuit, avec poulet;White rice, cooked, with chicken;Riz blanc, cuit, avec légumes et viande
+25192;Ravioli filled with vegetables, in tomato sauce, canned;Raviolis aux légumes, sauce tomate, appertisés;Ravioli filled with vegetables, in tomato sauce, canned;Ravioli à la viande, sauce tomate, appertisé
+25193;Fresh pasta, stuffed with vegetables (e.g. ravioli), cooked;Pâtes fraîches farcies (ex : raviolis), aux légumes, cuites;Ravioli filled with vegetables, in tomato sauce, canned;Pâtes fraîches farcies (ex : raviolis), à la viande (ex : bolognaise), cuites
+25196;Riste (Eggplant, tomatoes, onions);Riste d'aubergines (aubergines, tomates, oignons);Ratatouille cooked;Ratatouille cuisinée
+25198;Pasta with cheese sauce (spaghetti, tagliatelle...);Pâtes en sauce aux fromages (spaghetti, tagliatelles…);Fresh pasta, stuffed with cheese (e.g. ravioli), cooked;Pâtes à la bolognaise (spaghetti, tagliatelles…)
+25203;Fresh pasta, stuffed with vegetables (e.g. ravioli), raw;Pâtes fraîches farcies (ex : ravioli), aux légumes, crues;Ravioli filled with vegetables, in tomato sauce, canned;Pâtes fraîches farcies (ex : raviolis), à la viande (ex : bolognaise), crues
+25208;Vegetable rosti, pre-fried, frozen, cooked;Palet ou galette de légumes, préfrit, surgelé, cuit;Vegetable rosti, pre-fried, frozen;Palet ou galette de légumes, préfrit, surgelé
+25211;Meat balls, beef, with tomato sauce;Boulettes au bœuf, à la sauce tomate;Tomato sauce, with meat or Bolognese sauce, prepacked;Sauce tomate à la viande ou Sauce bolognaise, préemballée
+25213;Veal paupiette, cooked in oven;Paupiette de veau, cuite au four;Veal olive or veal paupiette;Paupiette de veau
+25218;Lasagna or cannelloni with vegetables, cooked;Lasagnes ou cannelloni aux légumes, cuits;Lasagna or cannelloni with vegetables;Lasagnes ou cannelloni aux légumes
+25219;Lasagna or cannelloni with vegetables and goat cheese, cooked;Lasagnes ou canelloni aux légumes et au fromage de chèvre, cuits;Lasagna or cannelloni with vegetables;Lasagnes ou cannelloni aux légumes
+25399;Snails in puff pastry;Feuilleté aux escargots;Snail in parsley butter, cooked;croissant ordinaire
+25416;Fish burger, fast foods restaurant;Burger au poisson;Fish burger, fast foods restaurant;Hamburger, provenant de fast food
+25417;Vegetables tart;Tarte aux légumes;Tomato tart;Tarte à la provençale
+25438;Fritter, filled (filo pastry) (garnish : shrimps, vegetables, poultry, meat, etc.);Brick garni (garniture : crevettes, légumes, volaille, viande, poisson, etc.);Egg roll or Nem;nem au porc
+25454;Provencal-style tart;Tarte à la provençale;Tomato tart;Tarte à la tomate
+25457;Pizza, bolognese-style w meat;Pizza à la viande, type bolognaise;Pizza, bolognese-style w meat;Pizza au chorizo ou salami
+25463;Pizza, seafood;Pizza aux fruits de mer;Pizza, tuna;Pizza au thon
+25464;Pizza, salmon;Pizza au saumon;Pizza, tuna;Pizza au thon
+25488;Sandwich made with French bread, smoked salmon and butter;Sandwich baguette, saumon fumé, beurre;Sandwich made with French bread, tuna, sweet corn and raw vegetables;Sandwich baguette, thon, maïs, crudités
+25502;Chicken burger, fast foods restaurant;Burger au poulet;Hamburger, from fast foods restaurant;Hamburger, provenant de fast food
+25503;Vol-au-vent with fish and seafood;Bouchée à la reine, au poisson et fruits de mer;Fish, croquette, fritter or nuggets, fried;beignet de poisson
+25506;Mixed meat on skewer;Brochette mixte de viande;Pork on skewer, raw;brochette de porc
+25512;Poultry nuggets;Volaille, croquette panée ou nuggets;Meat, poultry or fish fritters, home-made;beignet de porc
+25523;Canapés (toasts w various toppings);Toasts ou Canapés salés, garnitures diverses;Sandwich loaf;Pain de mie, courant
+25525;Topping sauce for pizza;Pizza, sauce garniture pour;Tomato sauce, with onions, prepacked;Sauce tomate aux oignons, préemballée
+25530;Sandwich made with French bread, raw vegetables and mayonnaise;Sandwich baguette, crudités diverses, mayonnaise;Sandwich made with French bread, turkey, raw vegetables (lettuce & tomato) and mayonnaise;Sandwich baguette, dinde, crudités (tomate, salade), mayonnaise
+25532;Sandwich made with French bread, egg, raw vegetables (tomato and lettuce) and mayonnaise;Sandwich baguette, oeuf, crudités (tomate, salade), mayonnaise;Sandwich made with French bread, egg, raw vegetables (tomato and lettuce) and mayonnaise;Sandwich baguette, poulet, crudités (tomate, salade), mayonnaise
+25533;Sandwich made with French bread, pork, raw vegetables (lettuce & tomato) and mayonnaise;Sandwich baguette, porc, crudités (tomate, salade), mayonnaise;Sandwich made with French bread, hard-boiled egg, raw vegetables (tomato and lettuce) and butter;Sandwich baguette, jambon, oeuf dur, crudités (tomate, salade), beurre
+25535;Sandwich made with French bread, merguez sausage, ketchup and mustard;Sandwich baguette, merguez, ketchup moutarde;Sandwich made with French bread, dry sausage and butter;Sandwich baguette, saucisson, beurre
+25536;Sandwich made with French bread, salami and butter;Sandwich baguette, salami, beurre;Sandwich made with French bread, ham and butter;Sandwich baguette, jambon, beurre
+25537;Salmon carpaccio, w marinade;Carpaccio de saumon avec marinade;Salmon, raw, farmed;Saumon, cru, élevage
+25542;Toasted ham sandwich topped with grated cheese and a fried egg;Croque-madame;Toasted ham sandwich topped with grated cheese and a fried egg;Croque-monsieur
+25544;Sandwich made with loaf bread, various filling;Sandwich pain de mie, garnitures diverses;Sandwich made with French bread, hard-boiled egg, raw vegetables (tomato and lettuce) and butter;Sandwich baguette, jambon, oeuf dur, crudités (tomate, salade), beurre
+25549;Crepe or buckwheat crepe, filled with cheese and bechamel sauce;Crêpe ou Galette fourrée béchamel fromage;Crepe or buckwheat crepe, filled with cheese and bechamel sauce;Crêpe ou Galette fourrée béchamel jambon
+25557;Fritter, filled with eggs (filo pastry);Brick à l'oeuf;Egg roll or Nem;nem au porc
+25558;Fritter, filled with beef (filo pastry);Brick au boeuf;Egg roll or Nem;nem au porc
+25559;Fritter, filled with potatoes (filo pastry);Brick à la pomme de terre;Egg roll or Nem;nem au porc
+25565;Yakitori (grilled meat on skewers, Japanese-style, with sauce);Yakitori (brochettes japonaises grillées en sauce);Pork on skewer, raw;Brochette mixte de viande
+25570;Pizza, lardoons onions and cheese;Pizza aux lardons, oignons et fromage;Pizza, goat cheese and lardoons;Pizza au chèvre et lardons
+25574;Sandwich made with wholemeal loaf bread, ham, raw vegetables, cheese (optional);Sandwich pain de mie complet, jambon, crudités, fromage optionnel;Sandwich made with French bread, hard-boiled egg, raw vegetables (tomato and lettuce) and butter;Sandwich baguette, jambon, oeuf dur, crudités (tomate, salade), beurre
+25575;Sandwich made with wholemeal loaf bread, tuna, raw vegetables and mayonnaise;Sandwich pain de mie complet, thon, crudités, mayonnaise;Sandwich made with French bread, tuna, raw vegetables (tomato and lettuce) and mayonnaise;Sandwich baguette, thon, crudités (tomate, salade), mayonnaise
+25576;Sandwich made with wholemeal loaf bread, ham and cheese;Sandwich pain de mie complet, jambon, fromage;Sandwich made with French bread, ham, emmental cheese and butter;Sandwich baguette, jambon, emmental, beurre
+25577;Sandwich made with wholemeal loaf bread, chicken, raw vegetables and mayonnaise;Sandwich pain de mie complet, poulet, crudités, mayonnaise;Sandwich made with French bread, chicken, raw vegetables (lettuce & tomato) and mayonnaise;Sandwich baguette, poulet, crudités (tomate, salade), mayonnaise
+25581;Crepe or buckwheat crepe, filled with mushrooms and bechamel sauce, cooked;Crêpe ou Galette fourrée béchamel champignon, cuite;Crepe, filled with ham;Crêpe ou Galette fourrée béchamel jambon
+25582;Egg roll or Nem, with chicken, cooked;Nem ou Pâté impérial, au poulet, cuit;Egg roll or Nem;nem au porc
+25583;Egg roll or Nem, with pork, cooked;Nem ou Pâté impérial, au porc, cuit;Egg roll or Nem;nem au porc
+25584;Egg roll or Nem, with shrimp and/or crab, cooked;Nem ou Pâté impérial, aux crevettes et/ou au crabe, cuit;Egg roll or Nem;nem au porc
+25587;Shepherd's pie with duck, cooked;Parmentier de canard, cuit;Shepherd's pie with duck;Parmentier de canard
+25588;Vegetables au gratin (oven grilled) in bechamel sauce;Gratin de légumes en sauce blanche type béchamel, cuit;Cauliflower au gratin (oven grilled);gratin de chou fleur à la béchamel
+25610;Ox muzzle in salad dressing sauce;Museau de boeuf en vinaigrette;Tongue, beef, cooked;Langue, boeuf, cuite
+25901;Soup, chicken and vegetables, prepacked, to be reheated;Soupe à la volaille et aux légumes, préemballée à réchauffer;Broth, stock or bouillon, poultry;Bouillon de volaille, déshydraté reconstitué
+25908;Soup, chicken and vermicelli, prepacked, to be reheated;Soupe à la volaille et aux vermicelles, préemballée à réchauffer;Soup, chicken and vermicelli, prepacked, to be reheated;Soupe à la tomate et aux vermicelles, préemballée à réchauffer
+25916;Soup, minestrone, prepacked, to be reheated;Soupe minestrone, préemballée à réchauffer;Soup, minestrone, prepacked, to be reheated;Soupe au pistou, préemballée à réchauffer
+25928;Soup, chicken and vegetables, dehydrated and reconstituted;Soupe à la volaille et aux légumes, déshydratée reconstituée;Broth, stock or bouillon, poultry;Bouillon de volaille, déshydraté reconstitué
+25962;Soup, vegetables with cheese, prepacked, to be reheated;Soupe aux légumes avec fromage, préemballée à réchauffer;Soup, vegetables with cheese, prepacked, to be reheated;Soupe aux légumes variés, préemballée à réchauffer
+25965;Soup, split peas, prepacked, to be reheated;Soupe aux pois cassés, préemballée à réchauffer;Soup, lentils, prepacked, to be reheated;Soupe aux lentilles, préemballée à réchauffer
+25967;Soup, gazpacho, cold;Soupe froide type Gaspacho ou Gazpacho;Soup, tomatoes, prepacked, to be reheated;Soupe à la tomate, préemballée à réchauffer
+26027;Pilchard, in tomato sauce, canned, drained;Pilchard, sauce tomate, appertisé, égoutté;European pilchard or sardine, in oil, canned;Maquereau, filet sauce tomate, appertisé, égoutté
+26035;European pilchard or sardine, in tomato sauce, canned, drained;Sardine, sauce tomate, appertisée, égouttée;European pilchard or sardine, in oil, canned;Sardine, à l'huile, appertisée, égouttée
+26086;Mackerel, fillet, in tomato sauce, canned, drained;Maquereau, filet sauce tomate, appertisé, égoutté;Mackerel, canned in brine, drained;Maquereau, au naturel, appertisé, égoutté
+26096;Mackerel, fillet, in mustard sauce, canned, drained;Maquereau, filet sauce moutarde, appertisé, égoutté;Mackerel, canned in brine, drained;Maquereau, au naturel, appertisé, égoutté
+26187;Common anchovy, marinated;Anchois commun, mariné;Common anchovy, marinated;Anchois, filets roulés aux câpres, semi-conserve, égoutté
+26239;Surimi, filled w cheese;Surimi, fourré au fromage;Surimi, on sticks, in slices or grated, crab flavour;Surimi, bâtonnets, tranche ou râpé saveur crabe
+26243;Tuna, in Catalan-style or in tomato sauce, canned;Thon, à la catalane ou à l'escabèche (sauce tomate), appertisé;Mackerel, canned in brine, drained;Maquereau, au naturel, appertisé, égoutté
+26256;Ham and mushroom pancake in cheese sauce;Ficelle picarde;Smoked Alsatian sausage or Landjager;Saucisse alsacienne fumée ou Gendarme
+26266;Croissant filled with ham and cheese;Croissant au jambon fromage;Croissant filled with ham and cheese;Croissant au jambon
+26267;Goat cheese and spinach tart;Tarte épinard chèvre;Maroilles cheese tart or maroilles cheese flamiche;Tarte au maroilles ou Flamiche au maroilles
+26271;Pizza, kebab;Pizza kebab;Pizza, ham and cheese;Pizza jambon fromage
+26272;Pizza, chicken;Pizza au poulet;Pizza, chicken;Pizza jambon fromage (adapté)
+26273;Pizza with raclette or tartiflette cheese and lardoons;Pizza type raclette ou tartiflette;Pizza, goat cheese and lardoons;Pizza au chèvre et lardons
+26274;Pizza, cured ham;Pizza au speck ou jambon cru;Pizza, ham and cheese;Pizza jambon fromage
+30104;Morteaux sausage;Saucisse de Morteau;Smoked Alsatian sausage or Landjager;Saucisse alsacienne fumée ou Gendarme
+30105;Montbeliard sausage;Saucisse de Montbéliard;Smoked Alsatian sausage or Landjager;Saucisse alsacienne fumée ou Gendarme
+30108;Morteaux sausage, boiled/cooked in water;Saucisse de Morteau, bouillie/cuite à l'eau;Smoked Alsatian sausage or Landjager;Saucisse alsacienne fumée ou Gendarme
+30150;Merguez sausage, raw;Merguez, crue;Merguez sausage, pork and beef, raw;Merguez, porc et bœuf, crue
+30154;Merguez sausage, beef, mutton and pork, raw;Merguez, bœuf, mouton et porc, crue;Merguez sausage, beef, mutton and pork, raw;Merguez, porc et bœuf, crue
+30155;Merguez sausage, beef and mutton, cooked;Merguez, boeuf et mouton, cuite;Merguez sausage, beef and mutton, raw;Merguez, boeuf et mouton, crue
+30156;Merguez sausage, beef and mutton, raw;Merguez, boeuf et mouton, crue;Merguez sausage, beef and mutton, raw;Merguez, porc et bœuf, crue
+30352;Salami, pork and beef;Salami porc et boeuf;Dry sausages, case ready;Saucisson sec
+30731;Saveloy or cervelat (from Obernai Alsace);Cervelas obernois;Fresh sausages, case ready;Cervelas
+30732;Saveloy or cervelat, pure pork with garlic;Cervelas à l'ail, pur porc;Fresh sausages, case ready;Cervelas
+30750;Viennese sausage, pork and veal, raw;Saucisse viennoise, crue;Toulouse sausage, raw;Saucisse de Toulouse, crue
+31000;Chocolate bar with biscuit;Barre chocolatée biscuitée;Biscuit (cookie), chocolate covering;biscuit sec enrobe de chocolat
+31001;Coated chocolate bar without biscuit;Barre chocolatée non biscuitée enrobée;Biscuit shortbread, with butter and chocolate;"Barre céréalière ""équilibre"" chocolatée, enrichie en vitamines et minéraux"
+31002;Coconut bar, with chocolate coating;Barre à la noix de coco, enrobée de chocolat;Dark chocolate bar, with fruits (orange, raspberries, pear);orangette au chocolat
+31012;Chocolate confectionery or bar, with dairy filling;Barres ou confiserie chocolatées au lait;Biscuit (cookie), chocolate covering;Biscuit sec avec nappage chocolat
+31013;Sorbet, on stick;Sorbet, bâtonnet;Sorbet, in box;Sorbet, en bac
+31035;Ice cream, chocolate coated;Barre glacée chocolatée;Ice cream, in box;glace a l'italienne a la vanille
+31041;Chocolate confectionery, sugar coated;Confiserie au chocolat dragéifiée;Chocolate confectionery, filled with nuts and/or praline;Bouchée chocolat fourrage fruits à coques et/ou praliné
+31042;Sugar and chocolate coated peanut;Cacahuètes enrobées de chocolat dragéifiées;Chocolate confectionery, filled with nuts and/or praline;Bouchée chocolat fourrage fruits à coques et/ou praliné
+31066;Chocolate and nut confectionery filled with praline;Rocher chocolat fourré praliné;Chocolate confectionery, filled with nuts and/or praline;Bouchée chocolat fourrage fruits à coques et/ou praliné
+31071;Chocolate bar with dried fruits;Barre chocolatée aux fruits secs;Dark chocolate bar, with fruits (orange, raspberries, pear);orangette au chocolat
+31073;Chocolate snack bar, dairy filling;Barre goûter frais au lait et chocolat;Biscuit (cookie), chocolate covering;Biscuit sec avec nappage chocolat
+31091;Chocolate confectionery, filled with wafer;Bonbon / bouchée au chocolat fourrage gaufrettes / biscuit;Chocolate confectionery, filled with nuts and/or praline;Bouchée chocolat fourrage fruits à coques et/ou praliné
+31092;Melon and almond Candy on a unleavened bread layer;Calissons d'Aix en Provence;Candied fruits;Fruit confit
+31098;Toblerone milk chocolate bar w nougat;Barre chocolat au lait avec nougat;Dark chocolate bar, with fruits (orange, raspberries, pear);orangette au chocolat
+31099;Chocolate snack bar, dairy filling with sponge cake;Barre goûter frais au lait et chocolat avec génoise;Biscuit (cookie), chocolate covering;biscuit sec enrobe de chocolat
+31100;Milky cereal breakfast bar, with chocolate or not, fortified with vitamins and minerals;Barre céréalière pour petit déjeuner au lait, chocolatée ou non, enrichie en vitamines et minéraux;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+31101;Cereal bar with fruit, fortified with vitamins and minerals;"Barre céréalière ""équilibre"" aux fruits, enrichie en vitamines et minéraux";Biscuit (small tart), with fruit covering;biscuit a la confiture
+31102;Cereal bar with chocolate, fortified with vitamins and minerals;"Barre céréalière ""équilibre"" chocolatée, enrichie en vitamines et minéraux";Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+31106;Chocolate cereal bar;Barre céréalière chocolatée;Biscuit shortbread, with butter and chocolate;biscuit sable au chocolat
+31113;Cereal bar w fruit;Barre céréalière aux fruits;Biscuit (small tart), with fruit covering;biscuit a la confiture
+31114;Cereal bar with almonds or hazelnuts;Barre céréalière aux amandes ou noisettes;Biscuit (cookie), thin, w almonds;biscuit sec croquant aux amandes type tuile
+32000;Breakfast cereals, popped or puffed wheat grain, with honey or caramel, fortified with vitamins and chemical elements;Grains de blé soufflés au miel ou caramel, enrichis en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32001;Breakfast cereals, with chocolate, not filled, fortified with vitamins and chemical elements;Céréales pour petit déjeuner chocolatées, non fourrées, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32002;Breakfast cereals, rich in fibre, with or without fruits, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, avec ou sans fruits, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32005;Breakfast cereals, corn flakes, plain, fortified with vitamins and chemical elements;Pétales de maïs natures, enrichis en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32009;Breakfast cereals, chocolate wheat grain flakes, fortified with vitamins and chemical elements;Pétales de blé chocolatés, enrichis en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32011;Breakfast cereals, chocolate wheat grain flakes (not fortified with vitamins and chemical elements);Pétales de blé chocolatés (non enrichis en vitamines et minéraux);Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32013;Breakfast cereals, with chocolate, not filled (not fortified with vitamins and chemical elements);Céréales chocolatées pour petit déjeuner, non fourrées, (non enrichies en vitamines et minéraux);Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32014;Breakfast cereals, corn flakes, plain (not fortified with vitamins and chemical elements);Pétales de maïs natures (non enrichis en vitamines et minéraux);Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32016;Breakfast cereals, filled with chocolate or chocolate-hazelnuts, fortified with vitamins and chemical elements;Céréales pour petit déjeuner fourrées au chocolat ou chocolat-noisettes, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32017;Breakfast cereals, filled with chocolate or chocolate-hazelnuts;Céréales pour petit déjeuner fourrées au chocolat ou chocolat-noisettes;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32018;Breakfast cereals, filled with a filling other than chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner fourrées, fourrage autre que chocolat, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32021;Breakfast cereals, diet, plain or with honey, fortified with vitamins and chemical elements;"Céréales pour petit déjeuner ""équilibre"" nature ou au miel, enrichies en vitamines et minéraux";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32022;Breakfast cereals, diet, with chocolate, fortified with vitamins and chemical elements;"Céréales pour petit déjeuner ""équilibre"" au chocolat, enrichies en vitamines et minéraux";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32023;Breakfast cereals, diet, with fruits, fortified with vitamins and chemical elements;"Céréales pour petit déjeuner ""équilibre"" aux fruits, enrichies en vitamines et minéraux";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32025;Breakfast cereals, diet, with dried fruits, fortified with vitamins and chemical elements;"Céréales pour petit déjeuner ""équilibre"" aux fruits secs (à coque), enrichis en vitamines et minéraux";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32028;Breakfast cereals, diet, with chocolate, not fortified;"Céréales pour petit déjeuner ""équilibre"" au chocolat (non enrichies en vitamines et minéraux)";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32029;Breakfast cereals, diet, with fruits, not fortified;"Céréales pour petit déjeuner ""équilibre"" aux fruits (non enrichies en vitamines et minéraux)";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32030;Breakfast cereals, diet, plain, not fortified;"Céréales pour petit déjeuner ""équilibre"" nature (non enrichies en vitamines et minéraux)";Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32107;Breakfast cereals, corn flakes, sugar iced (not fortified with vitamins and chemical elements);Pétales de maïs glacés au sucre (non enrichis en vitamines et minéraux);Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32108;Muesli, crunchy, with fruits and/or dried fruits, grains (not fortified with vitamins and chemical elements);Muesli croustillant aux fruits et/ou fruits secs, graines (non enrichi en vitamines et minéraux);Muesli, crunchy, with chocolate, with or without fruits, fortified with vitamins and chemical elements;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+32109;Muesli, crunchy, with chocolate (not fortified with vitamins and chemical elements);Muesli croustillant au chocolat (non enrichi en vitamines et minéraux);Muesli, crunchy, with chocolate (not fortified with vitamins and chemical elements);Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+32110;Muesli, flakes (Bircher-style), with fruits or dried fruits, fortified with vitamins and chemical elements;Muesli floconneux aux fruits ou fruits secs, enrichi en vitamines et minéraux;Muesli, crunchy, with chocolate, with or without fruits, fortified with vitamins and chemical elements;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+32111;Muesli, crunchy, with fruits or dried fruits, fortified with vitamins and chemical elements;Muesli croustillant aux fruits ou fruits secs, enrichi en vitamines et minéraux;Muesli, crunchy, with chocolate, with or without fruits, fortified with vitamins and chemical elements;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+32113;Muesli, flakes (Bircher-style), with fruits or dried fruits, without sugar;Muesli floconneux aux fruits ou fruits secs, sans sucres ajoutés;Muesli, crunchy, with chocolate, with or without fruits, fortified with vitamins and chemical elements;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+32115;Breakfast cereals, chocolate puffed/popped wheat grain, fortified with vitamins and chemical elements;Grains de blé soufflés chocolatés, enrichis en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32116;Breakfast cereals, very rich in fibre, fortified with vitamins and chemical elements;Céréales pour petit déjeuner très riches en fibres, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32121;Breakfast cereals, corn flakes, sugar iced, fortified with vitamins and chemical elements;Pétales de maïs glacés au sucre, enrichis en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32123;Breakfast cereals, wheat flakes with walnuts, hazelnuts or almonds, fortified with vitamins and chemical elements;Pétales de blé avec noix, noisettes ou amandes, enrichis en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32128;Muesli, flakes (Bircher-style);Muesli floconneux ou de type traditionnel;Muesli, crunchy, with chocolate, with or without fruits, fortified with vitamins and chemical elements;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+32129;Breakfast cereals, puffed/popped corn, with honey (not fortified with vitamins and chemical elements);Boules de maïs soufflées au miel (non enrichies en vitamines et minéraux);Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32133;Breakfast cereals, puffed/popped corn, with honey, fortified with vitamins and chemical elements;Boules de maïs soufflées au miel, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32134;Breakfast cereals, puffed/popped cereals, wholemeal, fortified with vitamins and chemical elements;Céréales complètes soufflées, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32135;Breakfast cereals, mix of puffed or extruded cereals, fortified with vitamins and chemical elements;Multi-céréales soufflées ou extrudées, enrichies en vitamines et minéraux;Breakfast cereals, rich in fibre, with chocolate, fortified with vitamins and chemical elements;Céréales pour petit déjeuner riches en fibres, au chocolat, enrichies en vitamines et minéraux
+32138;Muesli, flakes (Bircher-style), with fruits or dried fruits (not fortified with vitamins and chemical elements);Muesli floconneux aux fruits ou fruits secs (non enrichi en vitamines et minéraux);Muesli, crunchy, with chocolate, with or without fruits, fortified with vitamins and chemical elements;Muesli croustillant au chocolat, avec ou sans fruits, enrichi en vitamines et minéraux
+36027;Chicken, nugget, breaded croquette;Poulet, croquette panée ou nuggets;Meat, poultry or fish fritters, home-made;beignet de porc
+36035;Chicken, marinated wing, roasted/baked;Poulet, manchons marinés, rôtis/cuits au four;Chicken leg, meat, roasted/baked;Poulet, cuisse, viande, rôti/cuit au four
+37000;cream sauce for pizza base;Base de pizza à la crème;Cream sauce;sauce a la creme fraiche
+37002;Tomato sauce for pizza base;Base de pizza tomatée;Tomato sauce, with onions, prepacked;sauce tomate (huile)
+38105;Corn chips or tortilla chips;Chips de maïs ou tortilla chips;Potato crisps;Chips de pommes de terre, standard
+38106;Puffed salty snacks, made from potato;Biscuit apéritif soufflé, à base de pomme de terre;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38107;Salty snacks, mini pretzels or sticks;Biscuit apéritif, mini bretzel ou sticks;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38108;Puffed salty snacks, made from potato and soy;Biscuit apéritif soufflé, à base de pomme de terre et de soja;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38400;Puffed salty snacks, made from maize/corn, without peanuts;Biscuit apéritif soufflé, à base de maïs, sans cacahuète;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38401;Salty snacks, crackers, garnished or filled with cheese;Biscuit apéritif, crackers, garni ou fourré, au fromage;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38403;Salty snacks, crackers, reduced fat;Biscuit apéritif, crackers, nature, allégé en matière grasse;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38404;Puffed salty snacks, made from maize/corn, with peanuts;Biscuit apéritif soufflé, à base de maïs, à la cacahuète;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38405;Salty snacks, made from potato;Biscuit apéritif à base de pomme de terre, type tuile salée;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38407;Salty snacks, puff pastry;Biscuit apéritif feuilleté;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38408;Salted crispy crepe with cheese, prepacked;Crêpe dentelle (pour apéritif) au fromage, préemballée;Salty snacks, crackers, plain;Biscuit apéritif, crackers, nature
+38500;Crouton with garlic, herbs or onions, prepacked;Croûton à l'ail aux fines herbes ou aux oignons, préemballé;Croutons, plain, prepacked;Croûtons
+39220;Fruit liegeois;Liégeois aux fruits;Yogurt, fermented milk or dairy specialty, w fruits, with sugar;Yaourt, lait fermenté ou spécialité laitière, aromatisé ou aux fruits (aliment moyen)
+39246;Custard dessert, coffee, refrigerated;Crème dessert au café, rayon frais;Custard dessert, vanilla, canned;creme dessert type danette a la vanille (sucre avec du sucre)
+39247;Custard dessert, caramel, refrigerated;Crème dessert au caramel, rayon frais;Custard dessert, vanilla, canned;creme dessert type danette a la vanille (sucre avec du sucre)
+39401;Peach melba (with vanilla ice cream and raspberry sauce);Pêche melba;Goblet of ice cream, coffee or chocolate ice cream topped with whipped cream;Coupe glacée parfum pêche Melba ou poire Belle-Hélène
+39502;Frozen dessert, ice cream with meringue, vacherin ice cream or mystery ice cream type;Dessert glacé type mystère ou vacherin;Ice cream, in box;Glace ou crème glacée, bac ou pot (aliment moyen)
+39503;Ice cream on stick, with chocolate coating;Glace ou crème glacée, bâtonnet, enrobé de chocolat;Ice cream, in box;glace a l'italienne a la vanille
+39506;Custard dessert, chocolate, canned;Crème dessert au chocolat, appertisée;Custard dessert, chocolate, refrigerated;creme dessert type danette au chocolat noir (sucre avec du sucre)
+39509;Ice cream, cone (normal size);Glace ou crème glacée, cône (taille standard);Ice cream, in box;glace a l'italienne a la vanille
+39512;Frozen dessert, Sundae ice cream type;Dessert glacé, type sundae;Ice cream, in box;Glace ou crème glacée, bac ou pot (aliment moyen)
+39516;Frozen dessert, puff pastry, to share;Dessert glacé feuilleté, à partager;Ice cream, in box;Glace ou crème glacée, bac ou pot (aliment moyen)
+39517;Frozen yogurt;Glace au yaourt;Ice cream, in box;glace a l'italienne a la vanille
+39518;baked Alaska;Omelette norvégienne;Ice cream, in box;Glace ou crème glacée, bac ou pot (aliment moyen)
+39519;Belle Helene pear dessert (cooked pear topped with hot chocolate sauce on a bed of vanilla ice cream);Poire belle Hélène;Ice cream, in box;Glace ou crème glacée, bac ou pot (aliment moyen)
+39520;Ice cream, luxury, in box;Glace ou crème glacée, gourmande, en bac;Ice cream, in box;glace a l'italienne a la vanille
+39521;Ice cream, luxury, in cup;Glace ou crème glacée, gourmande, en pot;Ice cream, in box;glace a l'italienne a la vanille
+39522;Ice cream, cone, mini;Glace ou crème glacée, mini cône;Ice cream, in box;glace a l'italienne a la vanille
+39523;Ice cream, in individual cup;Glace ou crème glacée, pot individuel;Ice cream, in box;glace a l'italienne a la vanille
+39529;Iced nougat;Nougat glacé;Ice cream, in box;Glace ou crème glacée, bac ou pot (aliment moyen)
+39530;Frosted lemon or orange (sorbet);Citron givré ou Orange givrée (sorbet);Ice cream, in box;Glace à l'eau ou sorbet ou crème glacée, tout parfum (aliment moyen)
+39531;Ice cream, in cup for children;Glace ou crème glacée, petit pot enfant;Ice cream, in box;glace a l'italienne a la vanille
+39533;Ice cream log;Bûche glacée;Ice cream, in box;glace a l'italienne a la vanille
+39534;Goblet of ice cream, peach Melba or Belle Helene pear type;Coupe glacée parfum pêche Melba ou poire Belle-Hélène;Goblet of ice cream, coffee or chocolate ice cream topped with whipped cream;Coupe glacée type café ou chocolat liégeois
+42000;Meal replacement low calorie, Custard cream dessert-type;Substitut de repas hypocalorique, crème dessert;Meal replacement low calorie, ready-to-drink;Substitut de repas hypocalorique, prêt à boire
+42004;Meal replacement low calorie, in powder, reconstituted with skimmed milk;Substitut de repas hypocalorique, poudre reconstituée avec lait écrémé;Meal replacement low calorie, ready-to-drink;Substitut de repas hypocalorique, prêt à boire
+42005;Meal replacement low calorie, in powder, reconstituted with skimmed milk, milkshake type;Substitut de repas hypocalorique, poudre reconstituée avec lait écrémé, type milk-shake;Meal replacement low calorie, ready-to-drink;Substitut de repas hypocalorique, prêt à boire
+42604;Vegetable dish for baby, w meat/fish and starch, from 8-12 months;Plat légumes, avec féculent et viande/poisson, dès 8-12 mois;Vegetable dish for baby, w meat/fish and starch, from 6-8 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+42605;Vegetable dish for baby, w meat/fish and starch, from 12 months;Plat légumes, avec féculent et viande/poisson, dès 12 mois;Vegetable dish for baby, w meat/fish and starch, from 6-8 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+42606;Vegetable dish for baby, w meat/fish and starch, from 18 months;Plat légumes, avec féculent et viande/poisson, dès 18 mois;Vegetable dish for baby, w meat/fish and starch, from 6-8 months;Plat légumes, avec féculent et viande/poisson, dès 6-8 mois
+25013;Boiled meat with vegetables;Pot-au-feu;Boiled meat with vegetables;Pot-au-feu
+8296;Vegetable terrine or mousse;Terrine ou mousse de légumes;Vegetable terrine or mousse;Terrine ou mousse de légumes
