@@ -9,7 +9,7 @@ load_dotenv()
 API_KEY = os.getenv("SPOONACULAR_API_KEY")
 
 # Folder to save CSV
-OUTPUT_CSV = "data/processed/spoonacular_recipes_sample.csv"
+OUTPUT_CSV = "data/raw/Spoonacular/spoonacular_recipes_sample.csv"
 
 def search_recipes_by_ingredients(ingredients, number=1, ranking=1, ignorePantry=True):
     """
@@ -129,8 +129,8 @@ def build_dataset(ingredients_list, number_per_search=1):
 if __name__ == "__main__":
     # Example: list of ingredient lists to search
     ingredients_list = [
-        ["chicken", "garlic", "tomato"],
-        ["apples", "flour", "sugar"],
-        ["chocolate", "milk", "butter"]
+        ["salmon", "lemon", "dill"],
+        ["beef", "onion", "garlic"],
+        ["pasta", "tomato", "basil"]
     ]
     build_dataset(ingredients_list, number_per_search=1)
