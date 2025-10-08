@@ -1,4 +1,6 @@
 import pandas as pd
+
+
 csv_path = 'C:/user/grego/code/NotNemezis/Projet-ETL/data/raw/AGRIBALYSE/Agribalyse_detail_par_ingredient.csv'
 df = pd.read_csv(csv_path)
 
