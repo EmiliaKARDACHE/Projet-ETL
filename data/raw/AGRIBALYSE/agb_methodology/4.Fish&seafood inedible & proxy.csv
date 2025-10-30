@@ -1,0 +1,92 @@
+﻿ENG name;FR name;Existing data set - Dataset name;Existing data set - Database;Proxy proposal - Dataset name;Proxy proposal - Database;Quality of mapping - 1 very bad to 5 very good;Edible part (Inedible part = 1 - edible part)
+Alaska pollock;Lieu ou colin d'Alaska;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;3;0.363
+Albacore;Thon germon ou thon blanc;Albacore, NEA, Pelagic trawl, average, at landing/FR U;AGBL 1.4;;;5;0.599
+American bass;Bar rayé ou bar d'Amérique;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;;;4;0.44
+American or Canadian sea scallop;Pecten d'Amérique ou Peigne du canada, noix;;;Great Scallop, BSBrieuc, Dredge, average, at landing/FR U;AGBL 1.4;3;0.14300000000000002
+Anchovy;Anchois ;European Anchovy, ECA, Seine, average, at landing/MA U;AGBL 1.4;;;5;0.5
+Anglerfish;Lotte ou baudroie;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;2024-04-03 00:00:00;0.363
+Arctic char;Omble chevalier;;;Small trout, 250-350g, conventional, at farm gate/FR U;AGBL 1.4;4;0.5
+Atlantic bass;Bar ou loup de l'Atlantique;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;;;5;0.44
+Atlantic chub mackerel;Maquereau espagnol ou maquereau blanc ou billard;Atlantic Mackerel, NEA, Pelagic Trawl, average, at landing/NL U;AGBL 1.4;;;5;0.521
+Atlantic halibut;Flétan de l'Atlantique ou flétan blanc;;;Bluefin Tuna, MedSea, Longline, average, at landing/FR U;AGBL 1.4;2024-03-02 00:00:00;0.599
+Atlantic herring;Hareng fumé, à l'huile;Atlantic Herring, NEA, Pelagic Trawl, average, at landing/NL U;AGBL 1.4;;;5;0.5
+American or Canadian See scallop;Pecten d'Amérique ou Peigne du canada, noix, crue;;;Great Scallop, BSBrieuc, Dredge, average, at landing/FR U;AGBL 1.4;;0.14300000000000002
+Bigeye scad;Coulirou;;;Atlantic Mackerel, NEA, Pelagic Trawl, average, at landing/NL U;AGBL 1.4;4;0.521
+Big-scale sand smelt;Joëls (petits poissons entiers) pour fritures;;;European Pilchard, ECA, Seine, average, at landing/FR U;;3;0.5
+Black seabream;Dorade grise, ou daurade grise, ou griset;;;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;4;0.41600000000000004
+Blackspot seabream;Dorade rose, ou daurade rose;;;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;4;0.41600000000000004
+Blue grenadier;Grenadier bleu ou hoki de Nouvelle-Zélande;;;Saithe, NorthSea, Bottom Trawl, average, frozen, at landing/FR U;AGBL 1.4;2024-03-02 00:00:00;0.4
+Blue ling;Lingue bleue ou Lingue;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;4;0.363
+Blue shark;Empereur, filet, sans peau;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;3;0.363
+Bogue;Bogue;;;European Pilchard, ECA, Seine, average, at landing/FR U;AGBL 1.4;3;0.5
+Bonito;Bonite;;;Albacore, NEA, Pelagic trawl, average, at landing/FR U;AGBL 1.4;4;0.599
+Brown bullhead;Pangasius ou Poisson-chat;;;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;2024-03-02 00:00:00;0.44
+Brown meagre;Corb;;;Bluefin Tuna, MedSea, Longline, average, at landing/FR U;AGBL 1.4;3;0.599
+Capelin;Capelan;;;Albacore, NEA, Pelagic trawl, average, at landing/FR U;AGBL 1.4;3;0.599
+Carp;Carpe, élevage;;;Large trout, 2-4kg, conventional, at farm gate/FR U;AGBL 1.4;3;0.5
+Cod;Cabillaud;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;2024-05-04 00:00:00;0.363
+Common dab;Limande;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;4;0.363
+Common dentex;Denté;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Common sole;Sole;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;;;2024-05-04 00:00:00;0.41600000000000004
+Conger  ;Congre;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;4;0.363
+Crevalle jack;Carangue;;;Bluefin Tuna, MedSea, Longline, average, at landing/FR U;AGBL 1.4;4;0.599
+European bass;Bar commun ou loup;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;;;2024-05-04 00:00:00;0.44
+European hake;Merlu;;;Saithe, NorthSea, Bottom Trawl, average, frozen, at landing/FR U;AGBL 1.4;2024-03-02 00:00:00;0.4
+European perch;Perche;;;Small trout, 250-350g, conventional, at farm gate/FR U;AGBL 1.4;3;0.5
+European pilchard or sardine;Sardine, à l'huile d'olive, appertisée, égouttée;European Pilchard, BBiscay, Seine, average, at landing/FR U;AGBL 1.4;;;5;0.5
+European plaice;Carrelet ou plie;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+European sprat;Sprat;European Pilchard, BBiscay, Seine, average, at landing/FR U;AGBL 1.4;European Pilchard, ECA, Seine, average, at landing/FR U;AGBL 1.4;4;0.5
+Freshwater bream;Brème;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;;;4;0.44
+Garfish;Orphie commune;;;European Pilchard, BBiscay, Seine, average, at landing/FR U;AGBL 1.4;3;0.5
+Gilthead seabream;Dorade royale ou daurade ou vraie daurade, élevage;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;;;5;0.44
+Golden redfish;Grand sébaste, ou dorade sébaste, ou daurade sébaste;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;3;0.363
+Greenland halibut;Flétan du Groënland ou flétan noir ou flétan commun;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;2024-03-02 00:00:00;0.363
+Grenadier;Hoki, tout lieu de pêche;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;3;0.363
+Grouper;Mérou;;;Bluefin Tuna, MedSea, Longline, average, at landing/FR U;AGBL 1.4;3;0.599
+Haddock;Églefin;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;5;0.363
+Hake;Merlu;;;Saithe, NorthSea, Bottom Trawl, average, frozen, at landing/FR U;AGBL 1.4;2024-03-02 00:00:00;0.4
+Horse mackerel;Chinchard gras;;;Atlantic Mackerel, NEA, Pelagic Trawl, average, at landing/NL U;AGBL 1.4;5;0.521
+John dory;Saint-Pierre;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Largehead hairtail;Sabre;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Lemon sole;Limande-sole;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Ling;Julienne ou Lingue;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Mackerel;Maquereau;Atlantic Mackerel, NEA, Pelagic Trawl, average, at landing/NL U;AGBL 1.4;;;5;0.521
+Mediterranean bass;Bar commun ou loup (Méditerranée), élevage;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;;;5;0.44
+Megrim;Cardine franche;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+*Mussels;*Moule;New dataset to be created;AGB 3.0;;AGBL 1.4;;0.25
+Mullet;Mulet;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Nile perch;Perche du Nil;;;Large trout, 2-4kg, conventional, at farm gate/FR U;AGBL 1.4;2;0.5
+Norway lobster;;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.31
+Nursehound or lesser spotted dogfish;Roussette ou petite roussette ou saumonette;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Pangasius;Panga, Pangasius, ou poisson-chat du Mékong, filet, cuit;;;Tilapia {RoW}| tilapia production, extensive aquaculture, in pond | Cut-off, U;Ecoinvent 3.5;2024-03-02 00:00:00;0.44
+Peru sea scallop, without coral;Pétoncle ou Peigne du Pérou, noix;;;Great Scallop, BSBrieuc, Dredge, average, at landing/FR U;AGBL 1.4;4;0.14300000000000002
+Pollack;Lieu jaune ou colin;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;4;0.363
+Pond smelt;Éperlan;;;European Pilchard, BBiscay, Seine, average, at landing/FR U;AGBL 1.4;2024-04-03 00:00:00;0.5
+Pouting;Tacaud;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;4;0.363
+Rainbow trout;Truite arc en ciel, élevage;Large trout, 2-4kg, conventional, at farm gate/FR U;;;;5;0.5
+Ray;Raie;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Red gurnard;Grondin;;;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;4;0.41600000000000004
+Roundnose grenadier ;Grenadier (de roche);;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Saithe;Lieu noir;Saithe, NorthSea, Bottom Trawl, average, frozen, at landing/FR U;AGBL 1.4;;;5;0.363
+Salema;Saupe;;;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;4;0.41600000000000004
+Salmon;Saumon;;;Large trout, 2-4kg, conventional, at farm gate/FR U;AGB 1.4;;0.5
+Salmon trout;Truite saumonée;Large trout, 2-4kg, conventional, at farm gate/FR U;AGBL 1.4;;;5;0.5
+Scallop;Coquille Saint-Jacques, noix et corail;Great Scallop, BSBrieuc, Dredge, average, at landing/FR U;AGBL 1.4;;;5;0.14300000000000002
+Sea trout;Truite de mer;Large trout, 2-4kg, conventional, at farm gate/FR U;AGBL 1.4;;;5;0.5
+Shallow-water Cape hake;Merlu blanc du Cap;;;Saithe, NorthSea, Bottom Trawl, average, frozen, at landing/FR U;AGBL 1.4;2024-03-02 00:00:00;0.4
+Shark;Requin;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+*Shrimp;*Crevette;New dataset to be created;AGB 3.0;;;;0.45
+Skipjack tuna;Thon listao ou Bonite à ventre rayé;Skipjack Tuna, ECA, Seine, average, at landing/CI U;AGBL 1.4;;;5;0.599
+Snapper;Vivaneau;;;Bluefin Tuna, MedSea, Longline, average, at landing/FR U;AGBL 1.4;3;0.599
+Spiny scorpionfish;Rascasse;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;3;0.363
+Spotted wolffish;Loup tacheté;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;3;0.363
+Squid;Calmar ou calamar ou encornet;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Surmullet or red mullet ;Rouget-barbet de roche;;;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;3;0.41600000000000004
+Swordfish;Espadon;;;Bluefin Tuna, MedSea, Longline, average, at landing/FR U;AGBL 1.4;4;0.599
+Tonguesole;Sole tropicale ou Sole langue;Common Sole, BBiscay, Trammel Net, average, at landing/FR U;AGBL 1.4;;;4;0.41600000000000004
+Trout;Truite d'élevage;Large trout, 2-4kg, conventional, at farm gate/FR U;AGBL 1.4;;;5;0.5
+Tub gurnard;Grondin perlon;;;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;4;0.363
+Tuna;Thon;Yellowfin Tuna, ECA, Seine, average, at landing/CI U;AGBL 1.4;;;5;0.599
+Turbot;Turbot d'élevage;;;Sea bass or sea bream, 200-500g, conventional, in cage, at farm gate/FR U;AGBL 1.4;4;0.44
+Whiting;Merlan;Gadidae, CelticSea, Bottom Trawl, average, at landing/FR U;AGBL 1.4;;;5;0.363
+Yellowfin tuna;Thon albacore ou thon jaune, ;Yellowfin Tuna, ECA, Seine, average, at landing/CI U;AGBL 1.4;;;5;0.599
